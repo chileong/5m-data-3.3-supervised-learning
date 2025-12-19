@@ -56,6 +56,6 @@ To deepen your retention, try one of the following while you review:
 ## 📖 Additional Reading Material
 
 * [Scikit-Learn: Preprocessing Data](https://scikit-learn.org/stable/modules/preprocessing.html)
-* [Precision and Recall Explained](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
+* [Scikit-Learn: Precision and Recall Explained](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)
 
 ### 🙋🏻‍♂️ See you in the session!
